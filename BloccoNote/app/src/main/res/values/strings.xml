@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BloccoNote</string>
+    <string name="note_intent">bello.andrea.blocconote.mio_intent</string>
+</resources>
